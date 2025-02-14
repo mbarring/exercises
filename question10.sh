@@ -1,2 +1,2 @@
-git checkout master
+git switch main
 git merge branch1
