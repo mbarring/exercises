@@ -1,2 +1,2 @@
-git branch master
+checkout master
 git merge branch1
